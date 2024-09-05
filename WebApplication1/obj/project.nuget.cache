@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n9r/yvg95cWR6Uuk9+pqo7XXLz/2vGLubWE+457ZBIiot1HkW2qXSRIdNGaXlh44tRaXChF2xiFfK3lPCGfvpA==",
+  "dgSpecHash": "Zo19Pmuj6uk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\MaciejGrzela\\Documents\\youwell-spike-webhook-mock\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "C:\\Users\\MaciejGrzela\\Documents\\spike-webhook-mock\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MaciejGrzela\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.8\\microsoft.aspnetcore.openapi.8.0.8.nupkg.sha512",
     "C:\\Users\\MaciejGrzela\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
